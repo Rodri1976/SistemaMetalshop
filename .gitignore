@@ -1,0 +1,25 @@
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+
+# ===== Build =====
+/build/
+/dist/
+
+# ===== NetBeans =====
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDEs =====
+.vscode/
+.idea/
